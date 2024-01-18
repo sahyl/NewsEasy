@@ -11,9 +11,9 @@ export class Navbar extends Component {
       <div>
         <nav className="navbar navbar-expand-lg bg-body-tertiary " data-bs-theme="dark" >
           <div className="container-fluid">
-            <Link className="navbar-brand" to="/">
+            <h1 className="navbar-brand" >
               NewsEasy
-            </Link>
+            </h1>
             <button
               className="navbar-toggler"
               type="button"
