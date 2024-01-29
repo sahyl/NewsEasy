@@ -4,7 +4,7 @@ const Spinner = () => {
   
     return (
       <div className="d-flex align-items-center justify-content-center">
-        <img className='my-3 mx-3' src={loading} alt="loading" />
+        <img className='my-5 mx-5' src={loading} alt="loading" />
       </div>
     )
 }
